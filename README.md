@@ -1,12 +1,5 @@
 # World of Tanks game
 
-
-Resources
-```
-https://github.com/UPB-Graphics/gfx-framework
-```
-
-
 ## Constructii tanc din forme mai complexe
 Pentru realizarea tancului din forme mai complexe am creat cele 4 obiecte care formeaza tancul (corpul, turela, tunul și șenilele) in 
 Blender, le-am dat export ca fisier de tip obj, si le-am salvat in assets/models/my_models. Aceste obiecte + proiectilele apartin clasei 
@@ -227,3 +220,8 @@ Pentru proiectile am urmatoarele variabile, setate cand se creeaza sfera:
 Y-ul e setat: initial_y + initial_speed * sin(y_launchAngle) * t - 0.5f * gravity * t * t
 
 Asemanator ca la coliziunea proiectil - inamic.
+
+## Framework folosit:
+```
+https://github.com/UPB-Graphics/gfx-framework -> fisierele trebuie descarcate in src/lab_m1/<NUME_FISIER>, iar NUME_FISIER adaugat in lab_list.h 
+```
