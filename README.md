@@ -221,7 +221,13 @@ Y-ul e setat: initial_y + initial_speed * sin(y_launchAngle) * t - 0.5f * gravit
 
 Asemanator ca la coliziunea proiectil - inamic.
 
+## IDE:
+* Visual Studio 2022
+
 ## Framework folosit:
 ```
-https://github.com/UPB-Graphics/gfx-framework -> fisierele trebuie descarcate in src/lab_m1/<NUME_FISIER>, iar NUME_FISIER adaugat in lab_list.h 
+https://github.com/UPB-Graphics/gfx-framework
 ```
+
+## Mod de folosire
+* fisierele trebuie descarcate in src/lab_m1/<NUME_FISIER>, iar NUME_FISIER adaugat in lab_list.h, se ruleaza apoi folosind butonul RUN din Visual Studio
