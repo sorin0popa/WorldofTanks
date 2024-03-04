@@ -1,9 +1,9 @@
 # World of Tanks game
 
-## IDE:
+## IDE
 * Visual Studio 2022
 
-## Framework folosit:
+## Framework folosit
 ```
 https://github.com/UPB-Graphics/gfx-framework
 ```
