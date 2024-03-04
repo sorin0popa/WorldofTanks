@@ -4,9 +4,9 @@
 * Visual Studio 2022
 
 ## Framework folosit
-```
-https://github.com/UPB-Graphics/gfx-framework
-```
+
+* https://github.com/UPB-Graphics/gfx-framework
+* C++, OpenGL
 
 ## Mod de folosire
 * fisierele trebuie descarcate in src/lab_m1/<NUME_FISIER>, iar NUME_FISIER adaugat in lab_list.h, se ruleaza apoi folosind butonul RUN din Visual Studio
